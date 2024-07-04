@@ -4,5 +4,5 @@ This repository holds all the code for the javascript projects I've been buildin
 
 ## Projects
 - Weather App
-- 
+- To-Do List
 **This repo is not complete yet**
