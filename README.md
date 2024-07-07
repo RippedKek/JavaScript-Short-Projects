@@ -5,5 +5,5 @@ This repository holds all the code for the javascript projects I've been buildin
 ## Projects
 - Weather App
 - To-Do List
-- QR Code Generator
+- QR Code Generator <br>
 **This repo is not complete yet**
