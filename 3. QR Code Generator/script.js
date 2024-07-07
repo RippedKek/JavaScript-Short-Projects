@@ -16,5 +16,3 @@ input.addEventListener('keydown', (event)=>{
     if(event.key === 'Enter')
         generateQR();
 });
-
-document.load
